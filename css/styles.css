@@ -1,0 +1,133 @@
+.theme
+    {
+        background: rgb(0, 0, 0);
+    }
+
+
+.menu
+    {
+        display: flex;
+		direction: rtl;
+		background-color: rgb(78, 78, 78);
+        border-radius: 2px;
+        height: 50px;
+        margin: 1px;
+    }
+
+.textBoxmenu
+    {
+        width: 5%;
+        font-size: 25px;
+        line-height: 50px;
+        font-family: 'b nazanin';
+        color: white;
+        margin: 1px 10px 1px 1px;
+    }
+.imageBox
+    {
+        
+        height: 50px;
+        cursor: pointer;
+
+    }
+    
+      
+     
+      
+      /* mouse over link */
+a:hover 
+    {
+        
+        background: rgba(0, 0, 0, 0.582);
+        
+    }
+      
+      
+
+.flex-item
+    {
+        display: flex;
+        
+        margin: 10px 10px 50px 10px;
+
+        
+    }
+.textBoxleft
+    {
+        margin: 50px 0px 50px 5px;
+        width: 33.5%;
+        direction: rtl;
+        text-align: center; 
+        font-family: 'b nazanin';
+        font-size: 25px;
+        color: goldenrod;
+        background: rgb(43, 41, 41);
+        border-radius: 50px 0px 0px 50px;
+        border-left: 5px  solid rgb(133, 143, 228);
+        border-top: 5px  solid rgb(133, 143, 228);
+        border-bottom: 5px  solid rgb(133, 143, 228);
+    }
+.textBoxcenter
+    {
+        margin: 5px 0px 5px 0px;
+        width: 50%;
+        direction: rtl;
+        text-align: center; 
+        font-family: 'b nazanin';
+        font-size: 25px;
+        color: goldenrod;
+        background: rgb(0, 0, 0);
+        border-radius: 50px;
+        border-top: 5px  solid rgb(133, 143, 228);
+        border-bottom: 5px  solid rgb(133, 143, 228);
+    }
+.textBoxright
+    {
+        margin: 50px 5px 50px 0px;
+        width: 33.5%;
+       
+        direction: rtl;
+        text-align: center; 
+        font-family: 'b nazanin';
+        font-size: 25px;
+        color: goldenrod;
+        background: rgb(43, 41, 41);
+        border-radius: 0px 50px 50px 0px;
+        border-top: 5px  solid rgb(133, 143, 228);
+        border-bottom: 5px  solid rgb(133, 143, 228);
+        border-right: 5px  solid rgb(133, 143, 228);
+    }
+
+.text
+    {
+        text-align: center;
+        margin: 5px 50px 5px 1px;
+        direction: rtl;
+        width: 50%;
+        font-family: 'b nazanin';
+        font-size: 25px;
+        color: goldenrod;
+        border-radius: 0px 20px 20px 0px;
+        border-right: 2px  solid white;
+    }
+.margin
+    {
+        margin: 1px 20px 1px 1px;
+    }
+.car
+    {
+       
+        width: 100%;
+    }
+.para
+    {
+        text-align: center;
+        margin: 5px 50px 5px 1px;
+        direction: rtl;
+        width: 100%;
+        font-family: 'b nazanin';
+        font-size: 25px;
+        color: goldenrod;
+        border-radius: 20px;
+        border: 2px  solid white;
+    }
